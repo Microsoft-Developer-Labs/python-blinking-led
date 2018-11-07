@@ -37,3 +37,5 @@ All you have to do is type in `sudo su`, then type `python Program.py`.
 ## To run the program as pi@raspberrypi
 
 To run this program as the user __pi__, all you need to type is `sudo python Program.py`
+
+&copy; Microsoft Corporation 2018. All rights reserved.
